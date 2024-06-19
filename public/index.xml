@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Pavat&#39;s World</title>
-    <link>http://localhost:1313/</link>
+    <link>https://example.org/</link>
     <description>Recent content on Pavat&#39;s World</description>
     <generator>Hugo -- 0.127.0</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 19 Jun 2024 11:39:01 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome</title>
-      <link>http://localhost:1313/posts/welcome/</link>
+      <link>https://example.org/posts/welcome/</link>
       <pubDate>Wed, 19 Jun 2024 11:39:01 +0100</pubDate>
-      <guid>http://localhost:1313/posts/welcome/</guid>
+      <guid>https://example.org/posts/welcome/</guid>
       <description>Hi, I&amp;rsquo;m Pavat, better known as Pooh. Welcome to my world :)</description>
     </item>
   </channel>
